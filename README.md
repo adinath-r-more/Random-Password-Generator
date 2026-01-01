@@ -47,7 +47,7 @@ This project is created for:
 ---
 
 ## 👨‍💻 Author
-**Adinath Dada More**
+**Adinath More**
 
 ---
 
