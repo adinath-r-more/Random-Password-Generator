@@ -20,14 +20,10 @@ This project allows users to generate strong passwords and copy them instantly u
 - JavaScript
 
 ---
-
-## 📷 Preview
-![Password Generator Preview](preview.png)
-
 ---
 
 ## 🌐 Live Demo
-👉 https://your-username.github.io/repository-name/
+👉 (https://adinath-r-more.github.io/Random-Password-Generator/)
 
 ---
 
