@@ -135,7 +135,7 @@ body {
     }
 
     .display input {
-        font-size: 13px;
+        font-size: 12px;
     }
      .container button {
         font-size: 13px;
@@ -144,7 +144,7 @@ body {
         margin-left: 31px;
     }   
 
-    .container button img {
+    .container  button img {
         width: 22px;
         margin-right: 5px;
     }
